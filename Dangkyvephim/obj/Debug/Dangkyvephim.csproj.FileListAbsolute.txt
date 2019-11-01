@@ -1,0 +1,9 @@
+D:\PM\Dangkyvephim\Dangkyvephim\bin\Debug\Dangkyvephim.exe.config
+D:\PM\Dangkyvephim\Dangkyvephim\bin\Debug\Dangkyvephim.exe
+D:\PM\Dangkyvephim\Dangkyvephim\bin\Debug\Dangkyvephim.pdb
+D:\PM\Dangkyvephim\Dangkyvephim\obj\Debug\Dangkyvephim.Form1.resources
+D:\PM\Dangkyvephim\Dangkyvephim\obj\Debug\Dangkyvephim.Properties.Resources.resources
+D:\PM\Dangkyvephim\Dangkyvephim\obj\Debug\Dangkyvephim.csproj.GenerateResource.Cache
+D:\PM\Dangkyvephim\Dangkyvephim\obj\Debug\Dangkyvephim.exe
+D:\PM\Dangkyvephim\Dangkyvephim\obj\Debug\Dangkyvephim.pdb
+D:\PM\Dangkyvephim\Dangkyvephim\obj\Debug\Dangkyvephim.csprojResolveAssemblyReference.cache
